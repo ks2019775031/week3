@@ -1,0 +1,22 @@
+화면에 문자열 출력하기
+
+char[acter]
+String - 문자열
+
+문자열 결합 연산자 : +
+
+숫자 중에 모든 숫자의 제일 끝에 소수점이 고정된 수를 정수라고 합니다.
+정수 : fixed point
+실수 : floating point
+
+import sys 입력하고 sys.maxsize or -sys.maxsize 쓰기
+
+import turtle
+turtle.method()
+
+
+turtle 모듈 공식 문서 : https://docs.python.org/3/library/turtle.html
+
+화면에 오륜기를 그리고 오륜기 위에 자신의 이름을 나타내시오.
+olympic.ps로 저장하고 자신의 메일이나 클라우드에 저장하세요.
+
